@@ -10,7 +10,7 @@ Economics Intern, Koan Advisory, Summer 2018<br>
 Research Engineer Intern, Vzzual Ltd, Summer 2016
 
 **Teaching Experience**<br>
-TA (EC1130/EC1131 Mathematics & Statistics), Trinity College Dublin, 2018 -- 2019<br>
+TA (EC1130/EC1131 Maths & Stats), Trinity College Dublin, 2018 -- 2019<br>
 TF (Mathematics), Ashoka University, Spring Semester 2018
 
 **Software and Language Skills**<br>
