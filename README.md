@@ -1,4 +1,4 @@
-### Curriculum Vitae
+## Curriculum Vitae
 
 **Academic Experience**<br>
 MSc Economics, Trinity College Dublin, 2019<br>
