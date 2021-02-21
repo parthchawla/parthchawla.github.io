@@ -15,4 +15,4 @@ Teaching Fellow (Mathematics Foundation Course), Ashoka University, Spring Semes
 
 **Software and Language Skills**<br>
 Proficient: Stata, Python, MySQL, Git, LaTeX, English, Hindi<br>
-Familiar with: C++, Unix shell scripting, Amazon Web Services EC2/RDS, Korean
+Familiar with: C++, Unix shell scripting, AWS EC2/RDS, Korean
