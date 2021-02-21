@@ -1,8 +1,8 @@
 ### Curriculum Vitae
 
 #### Academic Experience
-##### MSc Economics, Trinity College Dublin, 2019
-##### BSc Physics, Royal Holloway, University of London, 2017
+MSc Economics, Trinity College Dublin, 2019<br>
+BSc Physics, Royal Holloway, University of London, 2017
 
 #### Work Experience
 Research Associate, Evidence for Policy Design (EPoD) India, Jun 2019 --<br>
