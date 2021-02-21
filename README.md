@@ -5,7 +5,7 @@ MSc Economics, Trinity College Dublin, 2019<br>
 BSc Physics, Royal Holloway, University of London, 2017
 
 **Work Experience**<br>
-Research Associate, Evidence for Policy Design (EPoD) India, Jun 2019 -- present<br>
+Research Associate, Evidence for Policy Design (EPoD) India, Jun 2019 --<br>
 Economics Intern, Koan Advisory, Summer 2018<br>
 Research Engineer Intern, Vzzual Ltd, Summer 2016
 
