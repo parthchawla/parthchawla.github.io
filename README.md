@@ -1,2 +1,2 @@
 <br><br>
-I am a PhD student in the Department of Agricultural and Resource Economics at the University of California, Davis. My research interests lie at the intersection of development and agricultural economics, particularly in technology adoption and public-service delivery.
+I am a PhD student in the Department of Agricultural and Resource Economics at the University of California, Davis. My research interests lie in development and agricultural economics.
