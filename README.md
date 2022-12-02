@@ -1,2 +1,2 @@
 <br><br>
-I am a PhD student in the Department of Agricultural and Resource Economics at the University of California, Davis. My research interests lie in development and agricultural economics.
+I am a PhD student in the Department of Agricultural and Resource Economics at the University of California, Davis. My research interests lie in development and agricultural economics. Prior to my PhD studies, I was a Research Associate at Evidence for Policy Design, Harvard Kennedy School, running field experiments in rural India.
