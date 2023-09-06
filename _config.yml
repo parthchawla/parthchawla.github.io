@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Parth Chawla
 logo: images/me.jpg
-google_analytics: G-9C8F203Y5X
+google_analytics: G-C2NRJM63BV
 url: https://parthchawla.github.io/
 plugins:
   - jekyll-remote-theme
