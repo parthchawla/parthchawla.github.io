@@ -3,4 +3,5 @@ title: Parth Chawla
 logo: images/me.jpg
 google_analytics: G-9C8F203Y5X
 url: https://parthchawla.github.io/
-plugins: jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
