@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima
+remote_theme: pages-themes/minimal@v0.2.0
 title: Parth Chawla
 logo: images/me.jpg
 google_analytics: G-9C8F203Y5X
