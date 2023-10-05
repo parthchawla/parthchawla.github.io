@@ -5,6 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<style>
+  .bottom-three {
+     margin-bottom: 3cm;
+  }
+</style>
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -42,9 +48,8 @@
       <section>
 
       {{ content }}
-      You can download my CV <a href="parthchawla.github.io/docs/ChawlaResume.pdf" target="_blank">here.</a>
-      
-      <img src="{{site.url}}/images/field.jpg" />
+      <p class="view" style="margin-bottom:3cm">You can download my CV <a href="parthchawla.github.io/docs/ChawlaResume.pdf" target="_blank">here.</a></p>
+        <p class="view" style="margin-bottom:3cm"><img src="{{site.url}}/images/field.jpg"/></p>
       </section>
       <footer>
         {% if site.github.is_project_page %}
