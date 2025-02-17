@@ -1,2 +1,2 @@
 <br><br>
-I am a Ph.D. candidate in Applied Economics at the University of California, Davis, with research interests in development economics, firm productivity, migration, and machine learning. I also currently work as a Consultant with the World Bank’s East Asia and Pacific Chief Economist’s Office and have previously worked with the Poverty and Equity Global Practice.
+I am a Ph.D. candidate in Applied Economics at the University of California, Davis, with research interests in development, firm productivity, trade, migration, and machine learning. I also currently work as a Consultant with the World Bank’s East Asia and Pacific Chief Economist’s Office and have previously worked with the Poverty and Equity Global Practice.
