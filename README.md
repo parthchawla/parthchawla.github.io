@@ -6,8 +6,7 @@ You can download my CV [here.](https://parthchawla.github.io/docs/ChawlaCV.pdf)
 ### Working Papers
 
 <p style="margin:0; padding:0;">
-Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. [SSRN Link](https://ssrn.com/abstract=5257343)
-</p>
+Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. [SSRN Link](https://ssrn.com/abstract=5257343) </p>
 <details style="margin-top:0; margin-bottom:0.25; padding:0;">
   <summary>Summary</summary>
   <small style="font-size:90%">
@@ -16,8 +15,7 @@ Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises?
 </details>
 
 <p style="margin:0; padding:0;">
-Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology". *Policy Research Working Papers*, 10616. World Bank, Washington, D.C. [Link](https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf)
-</p>
+Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology". *Policy Research Working Papers*, 10616. World Bank, Washington, D.C. [Link](https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf) </p>
 <details style="margin-top:0; margin-bottom:0.25; padding:0;">
   <summary>Summary</summary>
   <small style="font-size:90%">
