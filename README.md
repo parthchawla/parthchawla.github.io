@@ -25,7 +25,7 @@ Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating
 
 ### Selected Research in Progress
 
-"Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis and Hypothesis Generation," with J. Edward Taylor and Siyao Wang.
+"Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis and Hypothesis Generation," with J. Edward Taylor and Siyao Wang.    
 Conferences: *AAEA & WAEA Joint Annual Meeting 2025*
 <br>
 
