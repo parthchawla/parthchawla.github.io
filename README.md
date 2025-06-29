@@ -29,7 +29,7 @@ Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating
 Conferences: *AAEA & WAEA Joint Annual Meeting 2025*
 <br>
 
-"Supply Chain Networks and Diffusion of Shocks in Rural Markets," with Daniel Putnam and Jess Rudder
+"Firm Networks and Resilience to Shocks in Rural Markets," with Daniel Putnam and Jess Rudder
 <br>
 
 "Local Economic Impacts of Cash Transfers to Refugees and Asylum Seekers in Mexico, Mauritania, and Moldova," with Justin Kagin and J. Edward Taylor
