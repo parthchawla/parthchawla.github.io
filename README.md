@@ -1,6 +1,8 @@
 <br><br>
 I am a Ph.D. candidate in Agricultural and Resource Economics at the University of California, Davis. My research focuses on economic development, firm productivity and resilience, machine learning, and migration. I also currently work as a Consultant with the World Bank’s East Asia and Pacific Chief Economist’s Office and have previously worked with the Poverty and Equity Global Practice.
 
+I am interested in the drivers of private sector development in developing countries, particularly how skills, trade, supply chain networks, and digital adoption influence firm productivity and resilience to shocks. My work applies advanced causal inference and machine learning methods to study these themes across a range of contexts. I am also interested in the effects of global migration in response to shocks driven by climate change, economic instability, and conflict, with a focus on impacts in both origin and destination countries.
+
 You can download my CV [here.](https://parthchawla.github.io/docs/ChawlaCV.pdf)
 
 ### Working Papers
