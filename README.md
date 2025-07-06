@@ -36,7 +36,6 @@ Conferences: *AAEA & WAEA Joint Annual Meeting 2025*
   </small>
 </details>
 <br>
-<br>
 
 "Firm Networks and Resilience to Shocks in Rural Markets," with Daniel Putnam and Jess Rudder
 <br>
