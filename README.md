@@ -11,7 +11,7 @@ Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises?
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
-  Do returns to human capital rise during crises? This paper examines whether Indonesia’s INPRES school construction program in the 1970s improved firm resilience during the 1997 Asian Financial Crisis. I use a diff-in-diff strategy combined with a shift-share instrument, exploiting variation in district-level INPRES intensity and the national share of fully treated cohorts in the working-age population. Results show that INPRES significantly improved post-crisis plant performance: each additional INPRES school per 1,000 children increased labor productivity and output by 2.8 and 3.5 percent, respectively. I find that these gains were likely driven by INPRES-exposed plants retaining better-educated workers during the crisis.
+  Do returns to human capital rise during crises? This paper examines whether Indonesia's INPRES school construction program in the 1970s improved firm resilience during the 1997 Asian Financial Crisis. I use a difference-in-differences strategy combined with a shift-share instrument, exploiting variation in district-level INPRES intensity and the national share of fully treated cohorts in the working-age population. Results show that INPRES significantly improved post-crisis plant performance: each additional INPRES school per 1,000 children increased labor productivity and output by 2.8 and 3.5 percent, respectively. These gains were likely driven by INPRES-exposed plants benefiting from an abundant local supply of high-human capital production workers, which helped keep wages lower and allowed them to retain more educated workers during the crisis. I interpret this using a simple model of firm adjustment with heterogeneous worker skills.
   </small>
 </details>
 <br>
@@ -27,8 +27,15 @@ Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating
 
 ### Selected Research in Progress
 
-"Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis and Hypothesis Generation," with J. Edward Taylor and Siyao Wang    
-Conferences: *AAEA & WAEA Joint Annual Meeting 2025*
+"Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with J. Edward Taylor and Siyao Wang    
+Conferences: *AAEA & WAEA Joint Annual Meeting 2025*    
+<details style="margin-top:-1em; margin-bottom:-0.5em">
+  <summary>Summary</summary>
+  <small style="font-size:90%">
+  Reliable tools to predict migration are increasingly important amid rising climate risks, conflict, demographic shifts, and economic instability. Machine learning models, particularly tree-based algorithms, can uncover complex, nonlinear relationships that conventional models often miss and can be used to simulate responses to shocks. However, migration datasets are often costly and time-consuming to collect, so there is a need for models that perform well using readily available data. We first train a LightGBM model on an ideal dataset, a panel tracking the employment locations of 10,739 individuals from 1980 to 2007, and achieve high predictive accuracy. Using this as a benchmark, we then train a model on just four years of data, excluding migration histories. By adding publicly available weather variables, this restricted model approaches benchmark performance (within 0.1 F1 score). Finally, counterfactual shocks show that a 10% rise in temperature reduces migration by 13% the following year, a 10% increase in age lowers it by 17%, and a 10% drop in income by 18%.
+  </small>
+</details>
+<br>
 <br>
 
 "Firm Networks and Resilience to Shocks in Rural Markets," with Daniel Putnam and Jess Rudder
