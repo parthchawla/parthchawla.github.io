@@ -3,6 +3,8 @@ I am a Ph.D. candidate in Agricultural and Resource Economics at the University 
 
 I am interested in the drivers of private sector development, particularly in developing countries, including how skills, trade, supply chains, and digital adoption affect firm productivity and resilience to shocks. My work applies advanced causal inference and machine learning methods to study these themes across a range of contexts. I am also interested in cross-border and rural-to-urban migration, especially Mexico–US labor flows, and how climate, economic, and policy-related shocks affect migration patterns.
 
+Before starting my Ph.D., I worked as a Research Associate at Evidence for Policy Design (Harvard Kennedy School), leading field research in India. I hold a Master's in Economics from Trinity College Dublin and a Bachelor's in Physics from Royal Holloway, University of London.
+
 You can download my CV [here.](https://parthchawla.github.io/docs/ChawlaCV.pdf)
 
 ### Working Papers
