@@ -21,7 +21,7 @@ Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
-  This paper applies a machine learning-based survey-to-survey imputation method (SWIFT-plus) to estimate poverty in Afghanistan after the Taliban's return to power in August 2021. A model trained on the 2019/20 Expenditure and Labor Force Survey is used to predict household consumption in the 2023 Afghanistan Welfare Monitoring Survey. Results show that 48.3 percent of the population was poor as of April to June 2023, a 4 percentage point decline since 2020, driven by falling rural poverty while urban poverty remained stagnant.
+  This paper uses a machine learning-based survey-to-survey imputation method (SWIFT-plus) to estimate poverty in Afghanistan following the Taliban’s return to power in August 2021. A model trained on the 2019/20 Expenditure and Labor Force Survey is used to predict household consumption in the 2023 Afghanistan Welfare Monitoring Survey, a phone survey drawn from the same sampling frame. The results show that 48.3 percent of the population was poor as of April-June 2023, a 4 percentage point decline since the same months in 2020. This decline was driven by falling rural poverty, while urban poverty remained unchanged.
   </small>
 </details>
 <br>
