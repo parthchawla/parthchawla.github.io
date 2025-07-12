@@ -13,7 +13,7 @@ Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises?
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
-  Do returns to human capital rise during crises? This paper examines whether Indonesia’s INPRES school construction program in the 1970s improved firm resilience during the 1997 Asian Financial Crisis. I use a difference-in-differences strategy combined with a shift-share instrument, exploiting variation in district INPRES intensity and the national share of treated working-age cohorts. The results show that each additional school per 1,000 children increased post-crisis labor productivity and output by 2.8 and 3.5 percent, respectively. These gains were likely driven by INPRES-exposed plants benefiting from an abundant local supply of skilled production workers, which helped keep wages lower and allowed them to retain more educated workers during the crisis.
+  Do returns to human capital rise during crises? This paper examines whether Indonesia's INPRES school construction program in the 1970s improved firm resilience during the 1997 Asian Financial Crisis. I use a difference-in-differences strategy combined with a shift-share instrument, exploiting variation in district INPRES intensity and the national share of treated working-age cohorts. The results show that each additional school per 1,000 children increased post-crisis labor productivity and output by 2.8 and 3.5 percent, respectively. These gains were likely driven by INPRES-exposed plants benefiting from an abundant local supply of skilled production workers, which helped keep wages lower and allowed them to retain more educated workers during the crisis.
   </small>
 </details>
 <br>
@@ -23,7 +23,7 @@ Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
-  This paper uses a machine learning-based survey-to-survey imputation method (SWIFT-plus) to estimate poverty in Afghanistan following the Taliban’s return to power in August 2021. A model trained on the 2019/20 Expenditure and Labor Force Survey is used to predict household consumption in the 2023 Afghanistan Welfare Monitoring Survey, a phone survey drawn from the same sampling frame. The results show that 48.3 percent of the population was poor as of April-June 2023, a 4 percentage point decline since the same months in 2020. This decline was driven by falling rural poverty, while urban poverty remained unchanged.
+  This paper uses a machine learning-based survey-to-survey imputation method (SWIFT-plus) to estimate poverty in Afghanistan following the Taliban's return to power in August 2021. A model trained on the 2019/20 Expenditure and Labor Force Survey is used to predict household consumption in the 2023 Afghanistan Welfare Monitoring Survey, a phone survey drawn from the same sampling frame. The results show that 48.3 percent of the population was poor as of April-June 2023, a 4 percentage point decline since the same months in 2020. This decline was driven by falling rural poverty, while urban poverty remained unchanged.
   </small>
 </details>
 <br>
