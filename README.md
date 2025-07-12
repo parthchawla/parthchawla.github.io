@@ -1,5 +1,5 @@
 <br><br>
-I am a Ph.D. candidate in Agricultural and Resource Economics at the University of California, Davis. My research focuses on economic development, firm productivity and resilience, migration, and applied machine learning. I also currently work as a Consultant with the World Bank’s East Asia and Pacific Chief Economist’s Office and have previously worked with the Poverty and Equity Global Practice.
+I am a Ph.D. candidate in Agricultural and Resource Economics at the University of California, Davis, and currently on the **2025-26 job market**. My research focuses on economic development, firm productivity and resilience, migration, and applied machine learning. I also currently work as a Consultant with the World Bank’s East Asia and Pacific Chief Economist’s Office and have previously worked with the Poverty and Equity Global Practice.
 
 I am interested in the drivers of private sector development, particularly in developing countries, including how skills, trade, supply chains, and digital adoption affect firm productivity and resilience to shocks. My work applies advanced causal inference and machine learning methods to study these themes across a range of contexts. I am also interested in cross-border and rural-to-urban migration, especially Mexico–US labor flows, and how climate, economic, and policy-related shocks affect migration patterns.
 
@@ -9,7 +9,7 @@ You can download my CV [here.](https://parthchawla.github.io/docs/ChawlaCV.pdf)
 
 ### Working Papers
 
-Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. [SSRN Link](https://ssrn.com/abstract=5257343)    
+Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
