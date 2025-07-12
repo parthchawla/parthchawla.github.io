@@ -5,9 +5,7 @@ I am interested in the drivers of private sector development, particularly in de
 
 Before starting my Ph.D., I worked as a Research Associate at Evidence for Policy Design (Harvard Kennedy School), leading field research in India. I hold a Master's in Economics from Trinity College Dublin and a Bachelor's in Physics from Royal Holloway, University of London.
 
-I am on the 2025-26 job market.
-
-You can download my CV [here.](https://parthchawla.github.io/docs/ChawlaCV.pdf)
+I am on the 2025-26 job market. You can download my CV [here.](https://parthchawla.github.io/docs/ChawlaCV.pdf)
 
 ### Working Papers
 
