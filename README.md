@@ -44,7 +44,7 @@ Conferences: *AAEA & WAEA Joint Annual Meeting 2025* [Poster](https://ageconsear
 "Is Technology Inappropriate for Developing East Asia?," with World Bank EAP team
 <br>
 
-"Financial Literacy and Microentrepreneur Business Performance in Uganda", with Ester Agasha, Andrew Hobbs, Travis Lybbert, Nathalie Nyanga, and Bruce Wydick
+"Financial Literacy and Small Firm Performance in Uganda", with Ester Agasha, Andrew Hobbs, Travis Lybbert, Nathalie Nyanga, and Bruce Wydick
 <br>
 
 "Local Economic Impacts of Cash Transfers to Refugees and Asylum Seekers in Mexico, Mauritania, and Moldova," with Justin Kagin and J. Edward Taylor
