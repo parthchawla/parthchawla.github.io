@@ -3,11 +3,11 @@ I am a Ph.D. candidate in the Department of Agricultural and Resource Economics 
 
 I am interested in the drivers of private sector development, particularly in developing countries, including how skills, trade, supply chains, and technology adoption affect firm productivity and resilience to shocks. My work applies advanced causal inference and machine learning methods to study these themes across a range of contexts. I am also interested in cross-border and rural-to-urban migration, especially Mexico–US labor flows, and how climate, economic, and policy-related shocks affect migration patterns.
 
-I am on the 2025-26 job market. You can download my CV [here.](https://parthchawla.github.io/docs/ChawlaCVA.pdf)
+**I am on the 2025-26 job market**.
 
 ### Working Papers
 
-Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)    
+Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. (Job Market Paper) [**SSRN Link**](https://ssrn.com/abstract=5257343)    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
@@ -16,7 +16,7 @@ Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises?
 </details>
 <br>
 
-Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology". *Policy Research Working Papers*, 10616. World Bank, Washington, D.C. [Link](https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf)    
+Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology". *Policy Research Working Papers*, 10616. World Bank, Washington, D.C. [**Link**](https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf)    
 *Submitted*    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
@@ -29,7 +29,7 @@ Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating
 ### Research in Progress
 
 "Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with J. Edward Taylor     
-Conferences: *AAEA & WAEA Joint Annual Meeting 2025* [Poster](https://ageconsearch.umn.edu/record/361223?ln=en)    
+Conferences: *AAEA & WAEA Joint Annual Meeting 2025* [**Poster**](https://ageconsearch.umn.edu/record/361223?ln=en)    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
