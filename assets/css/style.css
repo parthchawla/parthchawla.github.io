@@ -2,13 +2,54 @@
 ---
 
 @import "{{ site.theme }}";
-.main-content {
-  h1 {
-   color: #A9A9A9;
- }
+
+/* --- Typography & Contrast Overrides --- */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/* --- Custom Font Size --- */
 body {
-  font-size: 16px;
+  color: #111;           /* high-contrast, softer than #000 */
+  font-size: 16px;       /* keep your size */
+  line-height: 1.6;      /* improves readability */
+}
+
+/* Headings */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #111;           
+  line-height: 1.25;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+
+/* Paragraphs & list items */
+.main-content p,
+.main-content li {
+  color: #111;
+}
+
+/* Links: bold, accessible color, clear hover */
+.main-content a {
+  color: #0645AD;                         /* accessible blue */
+  font-weight: bold;                      /* make links bold */
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 0.06em;
+}
+.main-content a:hover,
+.main-content a:focus {
+  text-decoration-thickness: 0.12em;
+}
+
+/* Small text & details elements */
+small,
+figcaption,
+.main-content details summary {
+  color: #333;
 }
