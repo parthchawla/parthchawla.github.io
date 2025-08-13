@@ -53,13 +53,3 @@ figcaption,
 .main-content details summary {
   color: #333;
 }
-
-header .view a {
-  font-weight: bold;
-  text-decoration: none; /* Optional: removes the underline */
-}
-
-/* Keep hover effect, but remove underline if you added the rule above */
-header .view a:hover {
-  text-decoration: underline;
-}
