@@ -53,3 +53,7 @@ figcaption,
 .main-content details summary {
   color: #333;
 }
+
+.view a {
+  font-weight: bold;
+}
