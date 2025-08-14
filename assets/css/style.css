@@ -53,3 +53,21 @@ figcaption,
 .main-content details summary {
   color: #333;
 }
+
+/* Sidebar spacing + interests list */
+header .view { margin: 0 0 0.35rem; padding: 0; }          /* tighten link stack */
+header .interests-block { margin-top: 0.5rem; }             /* small gap after CV */
+
+header .interests-block h4 {
+  margin: 0 0 0.3rem;                                       /* kill big bottom margin */
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+header .interests {
+  margin: 0;                                                /* remove ul top/bottom margin */
+  padding-left: 1rem;                                       /* reduce indent so it aligns */
+  list-style-position: outside;
+}
+
+header .interests li { margin: 0.12rem 0; }                 /* tighter item spacing */
