@@ -29,7 +29,7 @@ Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating
 ### Research in Progress
 
 "Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with J. Edward Taylor     
-Conferences: *AAEA & WAEA Joint Annual Meeting 2025* [Poster](https://ageconsearch.umn.edu/record/361223?ln=en)    
+Conferences: *AAEA & WAEA Joint Annual Meeting 2025* (Best Poster Award Recipient) [Poster](https://ageconsearch.umn.edu/record/361223?ln=en)    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
@@ -38,10 +38,10 @@ Conferences: *AAEA & WAEA Joint Annual Meeting 2025* [Poster](https://ageconsear
 </details>
 <br>
 
-"Firm Networks and Resilience to Shocks in Rural Markets," with Daniel Putnam and Jess Rudder
+"Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis (World Bank East Asia Pacific)
 <br>
 
-"Is Technology Inappropriate for Developing East Asia?," with World Bank EAP team
+"Firm Networks and Resilience to Shocks in Rural Markets," with Daniel Putnam and Jess Rudder
 <br>
 
 "Financial Literacy and Small Firm Performance in Uganda", with Ester Agasha, Andrew Hobbs, Travis Lybbert, Nathalie Nyanga, and Bruce Wydick
