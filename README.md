@@ -7,7 +7,8 @@ I am interested in the drivers of private sector development, particularly in de
 
 ### Working Papers
 
-Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)    
+Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)   
+Conferences: Japan Economic Policy Association 2025    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
@@ -16,8 +17,8 @@ Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises?
 </details>
 <br>
 
-Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology". *Policy Research Working Papers*, 10616. World Bank, Washington, D.C. [Link](https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf)    
-*Submitted*    
+Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology". Policy Research Working Papers, 10616. World Bank, Washington, D.C. [Link](https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf)    
+Submitted    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
@@ -29,7 +30,7 @@ Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating
 ### Research in Progress
 
 "Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with J. Edward Taylor     
-Conferences: *AAEA & WAEA Joint Annual Meeting 2025* (Best Poster Award Recipient) [Poster](https://ageconsearch.umn.edu/record/361223?ln=en)    
+Conferences: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient) [Poster](https://ageconsearch.umn.edu/record/361223?ln=en)    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
