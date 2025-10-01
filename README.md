@@ -29,7 +29,7 @@ Submitted
 
 ### Research in Progress
 
-"Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with J. Edward Taylor     
+"Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with [J. Edward Taylor](https://are.ucdavis.edu/people/faculty/j-edward-taylor/)     
 Conferences: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient) [Poster](https://ageconsearch.umn.edu/record/361223?ln=en)    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
@@ -39,10 +39,10 @@ Conferences: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient)
 </details>
 <br>
 
-"Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis (World Bank East Asia Pacific)
+"Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
 <br>
 
-"Firm Networks and Resilience to Shocks in Rural Markets," with Daniel Putnam and Jess Rudder
+"Firm Networks and Resilience to Shocks in Rural Markets," with [Daniel Putnam](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)
 <br>
 
 "Financial Literacy and Small Firm Performance in Uganda", with Ester Agasha, Andrew Hobbs, Travis Lybbert, Nathalie Nyanga, and Bruce Wydick
