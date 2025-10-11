@@ -8,7 +8,7 @@ I am interested in the drivers of private sector development, particularly in de
 ### Working Papers
 
 Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)   
-Conferences: Japan Economic Policy Association 2025    
+Conferences: Japan Economic Policy Association 2025, 20th Annual Conference on Economic Growth and Development (ISI Delhi)
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
