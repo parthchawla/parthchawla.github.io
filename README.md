@@ -8,7 +8,7 @@ I am interested in the drivers of private sector development, particularly in de
 ### Working Papers
 
 Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis". Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)   
-Conferences: Japan Economic Policy Association 2025, 20th Annual Conference on Economic Growth and Development (ISI Delhi)
+Presentations: Japan Economic Policy Association 2025, 20th Annual Conference on Economic Growth and Development (ISI Delhi)
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
@@ -30,7 +30,7 @@ Submitted
 ### Research in Progress
 
 "Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with [J. Edward Taylor](https://are.ucdavis.edu/people/faculty/j-edward-taylor/)     
-Conferences: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient) [Poster](https://ageconsearch.umn.edu/record/361223?ln=en)    
+Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient) [Poster](https://ageconsearch.umn.edu/record/361223?ln=en)    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
@@ -42,7 +42,8 @@ Conferences: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient)
 "Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
 <br>
 
-"Firm Networks and Resilience to Shocks in Rural Markets," with [Daniel Putnam](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)
+"Firm Networks and Resilience to Shocks in Rural Markets," with [Daniel Putnam](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)    
+Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
 <br>
 
 "Financial Literacy and Small Firm Performance in Uganda", with Ester Agasha, Andrew Hobbs, Travis Lybbert, Nathalie Nyanga, and Bruce Wydick
