@@ -42,7 +42,7 @@ Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipien
 "Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
 <br>
 
-"Firm Networks and Resilience to Shocks in Rural Markets," with [Daniel Putnam](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)    
+"Supply Chain Networks, Risk Sharing and Resilience to Shocks Among Small Firms in Tanzania," with [Daniel Putnam](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)    
 Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
 <br>
 
