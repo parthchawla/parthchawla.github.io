@@ -39,11 +39,17 @@ Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipien
 </details>
 <br>
 
-"Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
+"Firm Networks, Risk Sharing and Resilience to Shocks Among Small Firms in Tanzania," with [Daniel Putnam](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)    
+Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)    
+<details style="margin-top:-1em; margin-bottom:-0.5em">
+  <summary>Summary</summary>
+  <small style="font-size:90%">
+  We examine the role of formal and informal networks among small firms in helping them cope with shocks. Using novel survey data that we collected in rural Tanzania, we estimate complete firm networks and analyze how network characteristics, such as centrality and clustering, shape firms’ exposure to shocks and their responses, including access to credit, performance, productivity, and entry and exit.
+  </small>
+</details>
 <br>
 
-"Supply Chain Networks, Risk Sharing and Resilience to Shocks Among Small Firms in Tanzania," with [Daniel Putnam](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)    
-Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
+"Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
 <br>
 
 "Financial Literacy and Small Firm Performance in Uganda", with Ester Agasha, Andrew Hobbs, Travis Lybbert, Nathalie Nyanga, and Bruce Wydick
