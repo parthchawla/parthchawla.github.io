@@ -39,7 +39,7 @@ Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipien
 </details>
 <br>
 
-"Firm Networks, Risk Sharing and Resilience to Shocks Among Small Firms in Tanzania," with [Daniel Putnam](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)    
+"Firm Networks, Risk Sharing and Resilience to Shocks Among Small Firms in Tanzania," with [Daniel Putman](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)    
 Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)    
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
