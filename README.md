@@ -49,7 +49,13 @@ Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives
 </details>
 <br>
 
-"Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
+"Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))    
+<details style="margin-top:-1em; margin-bottom:-0.5em">
+  <summary>Summary</summary>
+  <small style="font-size:90%">
+  We test the "inappropriate technology" hypothesis in Vietnam by examining whether the productivity premium from imported technologies adopted by manufacturing firms is lower when those technologies are not well suited to local conditions, exploiting tariff variation as an instrument for technology adoption.
+  </small>
+</details>
 <br>
 
 "Financial Literacy and Small Firm Performance in Uganda", with Ester Agasha, Andrew Hobbs, Travis Lybbert, Nathalie Nyanga, and Bruce Wydick
