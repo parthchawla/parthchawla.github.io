@@ -22,7 +22,7 @@ Presentations: Japan Economic Policy Association 2025, 20th Annual Conference on
 ### Publications
 
 Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2025. "Estimating Poverty in Afghanistan Without Consumption Data: An Imputation-Based Approach." *The Journal of Development Studies*, 1–22. [Link](https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2601588?scroll=top&needAccess=true)
-<p style="font-size:0.9em; margin-top:-1em; padding:0;">
+<p style="font-size:0.9em; margin-top:-1.5em">
 Earlier version circulated as World Bank Policy Research Working Paper No. 10616.
 </p>
 <details style="margin-top:-1em; margin-bottom:-0.5em">
