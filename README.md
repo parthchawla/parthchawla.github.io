@@ -8,7 +8,7 @@ I am interested in the drivers of private sector development, particularly in de
 ### Working Papers
 
 Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis." Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)
-<p style="font-size:0.9em; margin-top:-1em">
+<p style="font-size:0.9em; margin-top:-1.25em">
 Presentations: Japan Economic Policy Association 2025, 20th Annual Conference on Economic Growth and Development (ISI Delhi)
 </p>
 <details style="margin-top:-1em; margin-bottom:-0.5em">
@@ -36,7 +36,7 @@ Earlier version circulated as World Bank Policy Research Working Paper No. 10616
 ### Research in Progress
 
 "Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with [J. Edward Taylor](https://are.ucdavis.edu/people/faculty/j-edward-taylor/)
-<p style="font-size:0.9em; margin-top:-1em">
+<p style="font-size:0.9em; margin-top:-1.25em">
 Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient) <a href="https://ageconsearch.umn.edu/record/361223?ln=en">Poster</a>
 </p>
 <details style="margin-top:-1em; margin-bottom:-0.5em">
@@ -48,7 +48,7 @@ Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipien
 <br>
 
 "Firm Networks, Risk Sharing and Resilience to Shocks Among Small Firms in Tanzania," with [Daniel Putman](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)
-<p style="font-size:0.9em; margin-top:-1em">
+<p style="font-size:0.9em; margin-top:-1.25em">
 Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
 </p>   
 <details style="margin-top:-1em; margin-bottom:-0.5em">
