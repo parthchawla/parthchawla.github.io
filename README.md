@@ -17,8 +17,9 @@ Presentations: Japan Economic Policy Association 2025, 20th Annual Conference on
 </details>
 <br>
 
-Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2023. "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology". Policy Research Working Papers, 10616. World Bank, Washington, D.C. [Link](https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf)    
-Accepted at *Journal of Development Studies*     
+### Publications
+
+Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2025. "Estimating Poverty in Afghanistan Without Consumption Data: An Imputation-Based Approach". *The Journal of Development Studies*, 1–22. [Link](https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2601588?scroll=top&needAccess=true)       
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
