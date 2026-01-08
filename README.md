@@ -20,10 +20,10 @@ Presentations: Japan Economic Policy Association 2025, 20th Annual Conference on
 ### Publications
 
 Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2025. "Estimating Poverty in Afghanistan Without Consumption Data: An Imputation-Based Approach." *The Journal of Development Studies*, 1–22. [Link](https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2601588?scroll=top&needAccess=true)
-<p style="font-size:0.9em; margin-top:0em">
+<p style="font-size:0.9em; margin-top:-1em">
 Earlier version circulated as World Bank Policy Research Working Paper No. 10616.
 </p>
-<details style="margin-top:0em; margin-bottom:-0.5em">
+<details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
   This paper uses a machine learning-based survey-to-survey imputation method to estimate poverty in Afghanistan following the Taliban's return to power in August 2021. A model trained on the 2019/20 Expenditure and Labor Force Survey is used to predict household consumption in the 2023 Afghanistan Welfare Monitoring Survey, a phone survey drawn from the same sampling frame. The results show that 48.3 percent of the population was poor as of April-June 2023, a 4 percentage point decline since the same months in 2020. This decline was driven by falling rural poverty, while urban poverty remained unchanged.
