@@ -7,15 +7,14 @@ I am interested in the drivers of private sector development, particularly in de
 
 ### Working Papers
 
-Chawla, P. 2025. "Can Human Capital Improve Firm Resilience in Financial Crises? Evidence from the 1997 Indonesian Crisis." Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)
+Chawla, P. 2026. "Local Human Capital Development and Firm Resilience: Evidence from the 1997 Indonesian Crisis." Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)
 <p style="font-size:0.9em; margin-top:-1.25em">
 Presentations: Japan Economic Policy Association 2025<br>
-New version coming soon!
 </p>
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
-  Do returns to human capital rise during crises? This paper examines whether Indonesia's INPRES school construction program in the 1970s improved firm resilience during the 1997 Asian Financial Crisis. I combine a difference-in-differences strategy with a shift-share instrument, exploiting variation in district INPRES intensity and the national share of treated working-age cohorts. I find that each additional school per 1,000 children raised post-crisis real labor productivity and output by 2.8 and 3.5 percent, respectively. These effects are not explained by pre-crisis differences in basic educational attainment. Instead, INPRES contributed to a pre-crisis shift of workers toward skill-intensive production work. Using reduced-form evidence and a simple model, I show that the resulting local abundance of skilled production workers helped keep their wages lower in high-INPRES districts, enabling plants to retain more skilled workers during the crisis.
+  Do returns to human capital rise during crises? This paper examines whether human capital accumulation created by Indonesia's INPRES school construction program in the 1970s improved firm resilience in the 1997 Asian Financial Crisis. I find that each additional school per 1,000 children increased real labor productivity and output during the crisis period by 2.7 and 3.3 percent, respectively. INPRES induced changes in the local pre-crisis workforce composition that shifted workers toward more skill-intensive production work. I argue that these skills became particularly valuable during the crisis, when firms faced disruptions. Consistent with this mechanism, INPRES had larger effects in sectors with higher import intensity, where adjustment demands were greater. Finally, I show that the local abundance of skilled workers in high-INPRES districts kept wages relatively lower, enabling plants to retain more of them when they were most valuable.
   </small>
 </details>
 <br>
