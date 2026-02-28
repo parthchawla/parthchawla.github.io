@@ -47,6 +47,15 @@ Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipien
 </details>
 <br>
 
+"Are Technologies Appropriate for Developing Country Skills? Evidence from Vietnamese Manufacturing," with Francesca de Nicola and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
+<details style="margin-top:-1em; margin-bottom:-0.5em">
+  <summary>Summary</summary>
+  <small style="font-size:90%">
+  We test the "inappropriate technology" hypothesis in Vietnam by examining whether productivity gains from imported technologies adopted by manufacturing firms are lower when those technologies are less suited to local factor endowments. We use a novel firm-level panel from 2009 to 2017 that identifies the country of origin of each firm's primary manufacturing technology and define "inappropriateness" as the difference between a firm's skill intensity and the skill abundance of the country from which it sources technology. Exploiting large-scale tariff liberalization during this period, and linking technology product descriptions to tariff schedules using an LLM-based approach to classify them into HS codes, we show a strong and statistically significant relationship between tariff reductions and greater skill mismatch. This effect is driven by firms shifting toward sourcing technologies from more skill-abundant countries than their own workforce: a 10 percentage-point decline in tariff exposure increases positive mismatch by about 0.03 standard deviations. We then instrument mismatch to estimate how productivity gains vary with technology appropriateness.
+  </small>
+</details>
+<br>
+
 "Firm Networks, Risk Sharing and Resilience to Shocks Among Small Firms in Tanzania," with [Daniel Putman](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)
 <p style="font-size:0.9em; margin-top:-1.25em">
 Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
@@ -55,15 +64,6 @@ Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives
   <summary>Summary</summary>
   <small style="font-size:90%">
   We examine the role of formal and informal networks among small firms in helping them cope with shocks. Using novel survey data that we collected in rural Tanzania, we estimate complete firm networks and analyze how network characteristics, such as centrality and clustering, shape firms’ exposure to shocks and their responses, including access to credit, performance, productivity, and entry and exit.
-  </small>
-</details>
-<br>
-
-"Is Technology Inappropriate for Developing East Asia?," with Francesca de Nicola, Aaditya Mattoo and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
-<details style="margin-top:-1em; margin-bottom:-0.5em">
-  <summary>Summary</summary>
-  <small style="font-size:90%">
-  We test the "inappropriate technology" hypothesis in Vietnam by examining whether the productivity premium from imported technologies adopted by manufacturing firms is lower when those technologies are not well suited to local conditions, exploiting tariff variation as an instrument for technology adoption.
   </small>
 </details>
 <br>
