@@ -9,7 +9,7 @@ I am on the 2025-26 job market.
 
 Chawla, P. 2026. "Local Human Capital Development and Firm Resilience: Evidence from the 1997 Indonesian Crisis." Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)
 <p style="font-size:0.9em; margin-top:-1.25em">
-Presentations: Japan Economic Policy Association 2025<br>
+Presentations: Japan Economic Policy Association 2025, UC Davis Development Workshop, Giannini Student Research Conference
 </p>
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
