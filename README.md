@@ -3,8 +3,6 @@ I am a fifth-year Ph.D. candidate in the Department of Agricultural and Resource
 
 I am interested in the drivers of private sector and rural development in developing countries, including how skills, trade, supply chains, and technology adoption affect firm productivity and resilience to shocks. My work applies quasi-experimental strategies and machine learning methods to study these themes across a range of contexts. I am also interested in cross-border and rural-to-urban migration, especially Mexico–US labor flows, and how climate, economic, and policy-related shocks affect migration patterns.
 
-I am on the 2025-26 job market.
-
 ### Working Papers
 
 Chawla, P. 2026. "Local Human Capital Development and Firm Resilience: Evidence from the 1997 Indonesian Crisis." Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)
