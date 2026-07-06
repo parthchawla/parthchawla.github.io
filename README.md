@@ -1,7 +1,5 @@
 <br><br>
-I am a fifth-year Ph.D. candidate in the Department of Agricultural and Resource Economics at the <u>University of California, Davis</u>. My research interests are in development and labor economics, with a focus on human capital, firm productivity, migration, and trade. I also currently work as a consultant with the <u>World Bank’s East Asia and Pacific Chief Economist’s Office</u> and have previously worked with the <u>Poverty and Equity Global Practice</u>.
-
-I am interested in the drivers of private sector and rural development in developing countries, including how skills, trade, supply chains, and technology adoption affect firm productivity and resilience to shocks. My work applies quasi-experimental strategies and machine learning methods to study these themes across a range of contexts. I am also interested in cross-border and rural-to-urban migration, especially Mexico–US labor flows, and how climate, economic, and policy-related shocks affect migration patterns.
+I am a fifth-year Ph.D. candidate in the Department of Agricultural and Resource Economics at the <u>University of California, Davis</u>. My research interests are in development and labor economics, with a focus on human capital, firm productivity, migration, and trade. My work uses applied microeconomics, causal inference, and machine learning to study these topics. I am currently an Economist Intern at <u>Amazon</u> and have previously worked as a consultant with the <u>World Bank's East Asia and Pacific Chief Economist's Office</u> and the <u>Poverty and Equity Global Practice</u>. I have also worked as an intern with the <u>United Nations Development Programme</u>.
 
 ### Working Papers
 
