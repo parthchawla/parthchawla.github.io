@@ -1,5 +1,7 @@
 <br><br>
-I am a fifth-year Ph.D. candidate in the Department of Agricultural and Resource Economics at the <u>University of California, Davis</u>. My research interests are in development and labor economics, with a focus on human capital, firm productivity, trade, and migration, particularly among agricultural workers. My work uses applied microeconomics, causal inference, and machine learning to study these topics. I am currently an Economist Intern at <u>Amazon</u> and have previously worked as a consultant with the <u>World Bank's East Asia and Pacific Chief Economist's Office</u> and the <u>Poverty and Equity Global Practice</u>. I have also worked as an intern with the <u>United Nations Development Programme</u>.
+I am a fifth-year Ph.D. candidate in the Department of Agricultural and Resource Economics at the <u>University of California, Davis</u>. My research interests are in development and labor economics, with a focus on human capital, firm productivity, trade, and migration, particularly among agricultural workers. My work uses applied microeconomics, causal inference, and machine learning to study these topics.
+
+I recently completed an Economist Internship at <u>Amazon</u> and have previously worked as a consultant with the <u>World Bank's East Asia and Pacific Chief Economist's Office</u> and the <u>Poverty and Equity Global Practice</u>.
 
 ### Working Papers
 
