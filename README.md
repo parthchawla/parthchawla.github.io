@@ -18,7 +18,7 @@ Invited Participation: NBER Summer Institute 2026, Economics of Education
 </details>
 <br>
 
-Chawla, P., [Putman, D.](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=), and [Rudder, J.](https://sites.google.com/ucdavis.edu/jessrudder/home) 2026. "Firm Networks, Credit Access, and Resilience to Shocks Among Small Firms in Tanzania." Working paper. [Link](https://parthchawla.com/docs/Firm%20Networks.pdf)
+Chawla, P., [Putman, D.](https://sites.google.com/view/danielputman/home), and [Rudder, J.](https://sites.google.com/ucdavis.edu/jessrudder/home) 2026. "Firm Networks, Credit Access, and Resilience to Shocks Among Small Firms in Tanzania." Working paper. [Link](https://parthchawla.com/docs/Firm%20Networks.pdf)
 <p style="font-size:0.9em; margin-top:-1.25em">
 Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
 </p>   
