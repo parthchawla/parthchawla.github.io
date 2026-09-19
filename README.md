@@ -18,6 +18,18 @@ Invited Participation: NBER Summer Institute 2026, Economics of Education
 </details>
 <br>
 
+Chawla, P., [Putman, D.](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=), and [Rudder, J.](https://sites.google.com/ucdavis.edu/jessrudder/home) 2026. "Firm Networks, Credit Access, and Resilience to Shocks Among Small Firms in Tanzania." Working paper.
+<p style="font-size:0.9em; margin-top:-1.25em">
+Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
+</p>   
+<details style="margin-top:-1em; margin-bottom:-0.5em">
+  <summary>Summary</summary>
+  <small style="font-size:90%">
+  Small nonfarm firms without access to formal financial institutions in developing countries often rely on their relationships with other local firms to access credit, in addition to other benefits such as operational support and information. We examine the role of these firm networks in helping firms cope with shocks using novel data that we collected in rural Tanzania. We use both directly elicited firm-to-firm relationships and aggregate relational data (ARD), which we use to estimate broader village networks, to study how important firms' positions in these networks are for coping with shocks. We find that network position is strongly associated with access to credit after a shock and greater resilience to it. A one standard deviation increase in the number of connections a firm has is associated with a 4.5–5.3 percentage-point increase in the probability of obtaining credit from another firm after a shock and a 3.0–3.9 percentage-point decrease in the probability of temporarily closing after a major shock. More connected firms are also more likely to take wage work, especially nearby wage work, as a coping response to a shock.
+  </small>
+</details>
+<br>
+
 ### Publications
 
 Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2025. "Estimating Poverty in Afghanistan Without Consumption Data: An Imputation-Based Approach." *The Journal of Development Studies*, 1–22. [Link](https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2601588?scroll=top&needAccess=true)
@@ -34,18 +46,6 @@ Earlier version circulated as World Bank Policy Research Working Paper No. 10616
 
 ### Research in Progress
 
-"Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with [J. Edward Taylor](https://are.ucdavis.edu/people/faculty/j-edward-taylor/)
-<p style="font-size:0.9em; margin-top:-1.25em">
-Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient) <a href="https://ageconsearch.umn.edu/record/361223?ln=en">Poster</a>
-</p>
-<details style="margin-top:-1em; margin-bottom:-0.5em">
-  <summary>Summary</summary>
-  <small style="font-size:90%">
-  Reliable tools to predict migration are increasingly important amid rising climate and economic risks, and demographic shifts. Tree-based machine learning models can uncover complex, nonlinear relationships that conventional models often miss and can be used to simulate responses to shocks. Migration data are costly to collect, so models must perform well with readily available data. We first train a LightGBM model on an ideal dataset, a panel tracking the employment locations of 10,739 individuals, primarily agricultural workers, from 1980 to 2007, and achieve high predictive accuracy. Using this as a benchmark, we then train a model on just four years of data without migration histories. By adding public weather data, this restricted model approaches benchmark performance (within 0.1 F1 score). Counterfactual shocks show that a 10% rise in temperature reduces migration by 13% the following year, a 10% increase in age lowers it by 17%, and a 10% drop in income by 18%.
-  </small>
-</details>
-<br>
-
 "Are Technologies Appropriate for Developing Country Skills? Evidence from Vietnamese Manufacturing," with Francesca de Nicola and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
@@ -55,14 +55,14 @@ Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipien
 </details>
 <br>
 
-"Firm Networks, Risk Sharing and Resilience to Shocks Among Small Firms in Tanzania," with [Daniel Putman](https://www.canr.msu.edu/people/daniel-putman?roleURL=daniel-putman&language_id=) and [Jess Rudder](https://sites.google.com/ucdavis.edu/jessrudder/home)
+"Predicting Mexico-to-US Migration with Machine Learning for Counterfactual Analysis," with [J. Edward Taylor](https://are.ucdavis.edu/people/faculty/j-edward-taylor/)
 <p style="font-size:0.9em; margin-top:-1.25em">
-Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
-</p>   
+Presentations: AAEA & WAEA Joint Annual Meeting 2025 (Best Poster Award Recipient) <a href="https://ageconsearch.umn.edu/record/361223?ln=en">Poster</a>
+</p>
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
-  We examine the role of formal and informal networks among small firms in helping them cope with shocks. Using novel survey data that we collected in rural Tanzania, we estimate complete firm networks and analyze how network characteristics, such as centrality and clustering, shape firms’ exposure to shocks and their responses, including access to credit, performance, productivity, and entry and exit.
+  Reliable tools to predict migration are increasingly important amid rising climate and economic risks, and demographic shifts. Tree-based machine learning models can uncover complex, nonlinear relationships that conventional models often miss and can be used to simulate responses to shocks. Migration data are costly to collect, so models must perform well with readily available data. We first train a LightGBM model on an ideal dataset, a panel tracking the employment locations of 10,739 individuals, primarily agricultural workers, from 1980 to 2007, and achieve high predictive accuracy. Using this as a benchmark, we then train a model on just four years of data without migration histories. By adding public weather data, this restricted model approaches benchmark performance (within 0.1 F1 score). Counterfactual shocks show that a 10% rise in temperature reduces migration by 13% the following year, a 10% increase in age lowers it by 17%, and a 10% drop in income by 18%.
   </small>
 </details>
 <br>
