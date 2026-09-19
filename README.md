@@ -46,7 +46,7 @@ Earlier version circulated as World Bank Policy Research Working Paper No. 10616
 
 ### Research in Progress
 
-"Are Technologies Appropriate for Developing Country Skills? Evidence from Vietnamese Manufacturing," with Francesca de Nicola and Jonathan Timmis ([World Bank East Asia Pacific](https://www.worldbank.org/en/region/eap/brief/east-asia-and-pacific-chief-economist-team))
+"Are Technologies Appropriate for Developing Country Skills? Evidence from Vietnamese Manufacturing," with [Francesca de Nicola](https://sites.google.com/site/fradenicola/) and [Jonathan Timmis](https://www.jonathantimmis.com/home) (World Bank East Asia Pacific)
 <details style="margin-top:-1em; margin-bottom:-0.5em">
   <summary>Summary</summary>
   <small style="font-size:90%">
