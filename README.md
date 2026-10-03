@@ -34,7 +34,7 @@ Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives
 
 ### Publications
 
-Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2025. "Estimating Poverty in Afghanistan Without Consumption Data: An Imputation-Based Approach." *The Journal of Development Studies*, 1–22. [Link](https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2601588?scroll=top&needAccess=true)
+Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2026. "Estimating Poverty in Afghanistan Without Consumption Data: An Imputation-Based Approach." *The Journal of Development Studies*, 62(7), 1126–1147. [Link](https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2601588?scroll=top&needAccess=true)
 <p style="font-size:0.9em; margin-top:-1.25em">
 Earlier version circulated as World Bank Policy Research Working Paper No. 10616.
 </p>
