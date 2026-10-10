@@ -7,7 +7,7 @@ I am on the 2026-27 job market.
 
 ### Working Papers
 
-Chawla, P. 2026. "Local Human Capital Development and Firm Resilience: Evidence from the 1997 Indonesian Crisis." Working paper. (Job Market Paper) [SSRN Link](https://ssrn.com/abstract=5257343)
+Chawla, P. 2026. "[Local Human Capital Development and Firm Resilience: Evidence from the 1997 Indonesian Crisis](https://ssrn.com/abstract=5257343){:.paper}." Working paper. (Job Market Paper)
 <p style="font-size:0.9em; margin-top:-1.25em">
 Presentations: 9th Linked Employer-Employee Data Workshop (Nova SBE), Japan Economic Policy Association 2025, UC Davis Development Workshop, Giannini Student Research Conferences<br>
 Invited Participation: NBER Summer Institute 2026, Economics of Education
@@ -20,7 +20,7 @@ Invited Participation: NBER Summer Institute 2026, Economics of Education
 </details>
 <br>
 
-Chawla, P., [Putman, D.](https://sites.google.com/view/danielputman/home), and [Rudder, J.](https://sites.google.com/ucdavis.edu/jessrudder/home) 2026. "Firm Networks, Credit Access, and Resilience to Shocks Among Small Firms in Tanzania." Working paper. [Link](https://parthchawla.com/docs/Firm_Networks.pdf)
+Chawla, P., [Putman, D.](https://sites.google.com/view/danielputman/home), and [Rudder, J.](https://sites.google.com/ucdavis.edu/jessrudder/home) 2026. "[Firm Networks, Credit Access, and Resilience to Shocks Among Small Firms in Tanzania](https://parthchawla.com/docs/Firm_Networks.pdf){:.paper}." Working paper.
 <p style="font-size:0.9em; margin-top:-1.25em">
 Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives" (2025)
 </p>   
@@ -34,7 +34,7 @@ Presentations: World Bank-LSMS Conference "Better Data for Better Jobs and Lives
 
 ### Publications
 
-Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2026. "Estimating Poverty in Afghanistan Without Consumption Data: An Imputation-Based Approach." *The Journal of Development Studies*, 62(7), 1126–1147. [Link](https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2601588?scroll=top&needAccess=true)
+Barriga-Cabanillas, O., Chawla, P., Redaelli, S. and Yoshida, N. 2026. "[Estimating Poverty in Afghanistan Without Consumption Data: An Imputation-Based Approach](https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2601588){:.paper}." *The Journal of Development Studies*, 62(7), 1126–1147.
 <p style="font-size:0.9em; margin-top:-1.25em">
 Earlier version circulated as World Bank Policy Research Working Paper No. 10616.
 </p>

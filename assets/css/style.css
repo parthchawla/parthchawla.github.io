@@ -67,3 +67,6 @@ figcaption,
 .main-content details summary {
   color: #333;
 }
+a.paper {
+  font-weight: 600;
+}
